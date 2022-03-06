@@ -1,0 +1,77 @@
+---
+title: "Erika Hutt, MD"
+image: "erika.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/erikahuttce"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?hl=en&user=NeKJqA4AAAAJ"
+  - label: Github
+    url: "https://github.com/erikahuttce"
+  - label: Email
+    url: "mailto:huttcee@ccf.org"
+output:
+  postcards::trestles
+---
+ 
+# Biography
+
+Erika Hutt, MD is an internist and current cardiovascular medicine fellow at the Cleveland Clinic. She was born and raised in Costa Rica, where she studied medicine at Universidad de Costa Rica. Her interest in clinical research led her to pursue medical training in the United States. She is currently a student of the Clinical Research Masters at Case Western University and she will be starting advanced cardiac imaging fellowship at Cleveland Clinic in July 2022. 
+Her current area of research interest is in cardiac sarcoidosis and other infiltrative cardiomyopathies. 
+During her free time, Erika enjoys cycling, hiking and spending time with friends and family. 
+
+# Publications
+
+- Cisneros BR, Mejía GS and Centeno EH. Endocarditis Infecciosa. Revista Clínica de la Escuela de Medicina de la Universidad de Costa Rica. 2015;5:26-34.
+- Arce Jiménez I, Cubillo Suárez W, Rodríguez Mena D, Hütt Centeno E and Rivera Arenas A. Implicaciones médico legales del quimerismo. 2015.
+- Centeno EH, Dittel AB and Cisneros BR. CASO 13-2015: Masculino de 56 años con Bagazosis. Revista Clínica de la Escuela de Medicina de la Universidad de Costa Rica. 2015;5:1-7.
+- Jiménez IA, Cubillo Suarez W, Hütt Centeno E, Rivera Arenas A and Rodríguez Mena D. Implicaciones médico legales del Quimerismo. Medicina Legal de Costa Rica. 2015;32:102-108.
+- Donnellan E, Krishnaswamy A, Hutt-Cntro E, Johnston DR, Kapadia SR, Aguilera J, Alashi A, Tuzcu EM, Mick S and Svensson LG. Similar Outcomes at 5 Years in Patients With Radiation-Associated Aortic Stenosis Undergoing TAVR vs. SAVR. Circulation. 2017;136:A16913-A16913.
+- Hutt Centeno E and Salas Segura J. TEMA 4-2015: REHABILITACIÓN CARDÍACA PARA EL MÉDICO GENERAL. Revista Clínica Escuela de Medicina UCR-HSJD Vol 5 Núm 2 2015.
+- Chen K, Hutt E, Kalahasti V, Roselli E, Godoy C, Alashi A, Hammer D, Griffin B, Desai M and Svensson L. Characteristics and Long-Term Outcomes in Patients With Marfan Syndrome: A Tertiary Care Center Experience. Circulation. 2017;136:A17467-A17467.
+- Oikonomou EK, Marwan M, Desai MY, Mancio J, Alashi A, Centeno EH, Thomas S, Herdman L, Kotanidis CP and Thomas KE. Non-invasive detection of coronary inflammation using computed tomography and prediction of residual cardiovascular risk (the CRISP CT study): a post-hoc analysis of prospective outcome data. The Lancet. 2018;392:929-939.
+- Donnellan E, Krishnaswamy A, Hutt-Centeno E, Johnston DR, Aguilera J, Kapadia SR, Mick S, Svensson LG, Griffin BP and Desai MY. Outcomes of patients with mediastinal radiation-associated severe aortic stenosis undergoing transcatheter aortic valve replacement. Circulation. 2018;138:1752-1754.
+- Hutt E, Wazni OM, Saliba WI, Kanj M, Tarakji KG, Aguilera J, Barakat AF, Rasmussen P, Uchino K and Russman A. Left atrial appendage closure device implantation in patients with prior intracranial hemorrhage. Heart rhythm. 2019;16:663-668.
+- Centeno EH and Segura JS. Rehabilitación cardíaca para el médico general. Revista Clínica de la Escuela de Medicina de la Universidad de Costa Rica. 2015;5:30-36.
+- Hutt Centeno E, Vajapey R, Ahmed HM, Cho L, Hazen S and Mayuga KA. Relationship Between Age and Functional Capacity in Patients With Postural Orthostatic Tachycardia Syndrome. Circulation. 2018;138:A15072-A15072.
+- Aleyadeh W, Hutt-Centeno E, Ahmed HM and Shah NP. Hypertension guidelines: Treat patients, not numbers. Cleveland Clinic journal of medicine. 2019;86:47-56.
+- Vajapey R, Hutt Centeno E, Ahmed HM, Cho L, Hazen SL and Mayuga KA. Normal Functional Capacity is Associated With Better Quality of Life in Patients With Postural Orthostatic Tachycardia Syndrome. Circulation. 2018;138:A15087-A15087.
+- Centeno EH and Segura JS. Corazón de atleta. Revista Clínica Escuela de Medicina UCR-HSJD. 2015;5.
+- Centeno EH, Mayuga KA, Shoemaker L and Jaeger F. Syncope. Disease Management Chapters. 2018.
+- Centeno EH, Dittel AB and Cisneros BR. Masculino de 56 años con bagazosis. Revista Clínica Escuela de Medicina UCR-HSJD. 2015;5.
+- Aleyadeh W, Hutt-Centeno E, Ahmed H and Shah N. Hypertension guidelines: treat patients, not numbers (vol 86, pg 47, 2019). Cleveland Clinic journal of medicine. 2019;86:210-210.
+- Wazni O, Hutt E, Saliba W, Saqi B, Barakat A, Tarakji K, Kanj M, Lindsay B and Hussein A. P4798 Safety of short-term anticoagulation for watchman implantation in patients with prior intracranial hemorrhage. European Heart Journal. 2018;39:ehy563. P4798.
+- Desai MY, Kalahasti V, Hutt Centeno E, Chen K, Alashi A, Rivas CG, Roselli EE, Johnston DR, Griffin BP and Svensson LG. Adult patients with Marfan syndrome and ascending aortic surgery. Journal of the American College of Cardiology. 2019;73:733-734.
+- Wazni O, Hutt E, Saliba W, Saqi B, Barakat A, Tarakji K, Kanj M, Lindsay B and Hussein A. P3849 Watchman implantation in patients with very high stroke risk. European Heart Journal. 2018;39:ehy563. P3849.
+- Aleyadeh W, Hutt-Centeno E, Ahmed HM and Shah NP. Correction: Hypertension guidelines. Cleveland Clinic journal of medicine. 2019;86:210-210.
+- Hutt-Centeno E, Wilson R and Mayuga KA. Is neuroimaging necessary to evaluate syncope? Cleveland Clinic journal of medicine. 2019;86:240-242.
+- Hutt E, Wazni OM, Kaur S, Saliba WI, Tarakji KG, Kapadia S, Aguilera J, Barakat AF, Abdallah M and Jaber W. Left atrial appendage closure device implantation in patients at very high risk for stroke. Heart rhythm. 2020;17:27-32.
+- Oikonomou EK, Williams MC, Kotanidis CP, Desai MY, Marwan M, Antonopoulos AS, Thomas KE, Thomas S, Akoumianakis I and Fan LM. A novel machine learning-derived radiotranscriptomic signature of perivascular fat improves cardiac risk prediction using coronary CT angiography. European heart journal. 2019;40:3529-3543.
+- Kaur S, Hutt E, Saliba WI, Kanj MH, Tarkaji K, Baranowski B, Cantillon DJ, Rickard J, Dresing TJ and Callahan TD. Cardioversion Outcomes After Left Atrial Appendage Occlusion With the Watchman Device. Circulation. 2019;140:A10866-A10866.
+- Aggarwal A, Patel D, Kumar A, Chen K, Hutt E, Svensson L, Roselli EE, Kanj M, Hussein A and Wazni OM. Mortality in Patients With Marfan and Atrial Fibrillation. Circulation. 2019;140:A13972-A13972.
+- Hutt E, Kaur S, Aguilera J, Saliba WI, Kanj MH, Tarakji K, Abdallah MS, Baranowski B, Cantillon DJ and Rickard J. Dual Antiplatelet Therapy After Left Atrial Appendage Occlusion With the Watchman Device. Circulation. 2019;140:A10987-A10987.
+- Khan AR, Hutt E, Iskandar J-P, Patel D, Kumar A, Aguilera J, Chen K, Griffin BP, Roselli E and Ayoub C. CHARACTERISTICS AND OUTCOMES OF MARFAN PATIENTS WITH NONISCHEMIC CARDIOMYOPATHY. Journal of the American College of Cardiology. 2020;75:852.
+- Hutt E, Hachamovitch R and Jaber WA. The Mediastinum is LIT. Journal of nuclear cardiology: official publication of the American Society of Nuclear Cardiology. 2020.
+- Hutt E, Diab M, Wazni OM, Kaur S, Tarakji KG, Saliba WI, Kanj M, Cantillon D, Rickard J and Varma N. Transvenous lead extraction in patients with prior extraction procedures: Procedural profiles and outcomes. Heart Rhythm. 2020;17:1904-1908.
+- Vajapey R, Centeno EH, Van Iterson EH, Ahmed HM and Mayuga KA. ST-segment changes during tilt table testing for postural tachycardia syndrome: correlation with exercise stress test results. Clinical Autonomic Research. 2020;30:79-83.
+- Van Iterson EH, Laffin LJ, Mayuga KA, Centeno EH, Ahmed T, Cho L and Ahmed HM. High Submaximal exercise heart rate impacts exercise intolerance in the postural orthostatic tachycardia syndrome. Journal of cardiopulmonary rehabilitation and prevention. 2020;40:195-201.
+- Centeno EH, Militello M and Gomes MP. Anti-Xa assays: what is their role today in antithrombotic therapy? Cleveland Clinic journal of medicine. 2019;86:417-425.
+- Vajapey R, Centeno EH, Van Iterson EH, Ahmed HM and Mayuga KA. Correction to: ST‑segment changes during tilt table testing for postural tachycardia syndrome: correlation with exercise stress test results. Clinical Autonomic Research. 2020;30:85-85.
+- Mayuga K. What can I do when first-line measures are not enough for vasovagal syncope? Cleveland Clinic journal of medicine. 2018;85:920-922.
+- Oikonomou E, Marwan M, Mancio J, Kotanidis C, Thomas K, Alashi A, Centeno EH, Antonopoulos A, Shirodaria C and Neubauer S. Perivascular fat attenuation index stratifies the cardiac risk associated with high-risk plaque features on coronary computed tomography angiography. EUROPEAN HEART JOURNAL. 2019;40:1924-1924.
+- Hutt E, Vajapey R, Van Iterson EH, Jaeger F, Cho L, Ahmed HM and Mayuga KA. Functional capacity and quality of life in the postural tachycardia syndrome: A retrospective cross-sectional study. Annals of Medicine and Surgery. 2020;56:72-76.
+- Diab M, Wazni OM, Saliba WI, Tarakji KG, Ballout JA, Hutt E, Rickard J, Baranowski B, Tchou P and Bhargava M. Ablation of Atrial Fibrillation Without Left Atrial Appendage Imaging in Patients Treated With Direct Oral Anticoagulants. Circulation: Arrhythmia and Electrophysiology. 2020;13:e008301.
+- Hutt E and Desai MY. Management of valvular heart disease in the pregnant patient. Expert Review of Cardiovascular Therapy. 2020;18:495-501.
+- Hutt E, Santos-Martins C, Aguilera J, Wierup P, Kalahasti V and Tan C. A 27-Year-Old Woman With Postpartum Papillary Muscle Rupture. Case Reports. 2020;2:2191-2195.
+- Hutt E, Jaber WA, Jellis C, Mountis MM and Cremer PC. Novel dietary protocol prior to 18F-fluorodeoxyglucose positron emission tomography to evaluate for cardiac sarcoidosis. Journal of Nuclear Cardiology. 2020:1-4.
+- Hutt E, Jaber WA and Fares M. Asymptomatic STEMI during PET stress testing: First report in a patient with heart transplant. Journal of Nuclear Cardiology. 2021:1-3.
+- Smolka S, Alashi A, Marwan M, Fava A, Hutt E, Schoenhagen P, Popovic Z, Cremer P, Rodriguez LL and Flamm S. INCREMENTAL PROGNOSTIC UTILITY OF CT-FFR IN PATIENTS WITHOUT KNOWN CORONARY ARTERY DISEASE UNDERGOING CORONARY COMPUTED TOMOGRAPHIC ANGIOGRAPHY. Journal of the American College of Cardiology. 2021;77:1281-1281.
+- Brizneda MV, Hutt E, Aguilera J, Wang TKM, Taimeh Z, Culver D, Hussein A, Callahan T, Wazni O and Jaber W. CARDIAC INVOLVEMENT IN SARCOIDOSIS: A POOR PROGNOSTIC MARKER. Journal of the American College of Cardiology. 2021;77:744-744.
+- Hutt E, Mentias A, Alashi A, Fava A, Popovic Z, Thamilarasan M, Wierup P, Smedira N, Lever H and Desai M. INCREMENTAL PROGNOSTIC VALUE OF NT-PROBNP IN OBSTRUCTIVE HYPERTROPHIC CARDIOMYOPATHY PATIENTS. Journal of the American College of Cardiology. 2021;77:745-745.
+- Hutt E, Brizneda MV, Aguilera J, Taimeh Z, Ribeiro M, Culver D, Hussein A, Callahan T, Wazni O and Cremer P. CHARACTERISTICS AND OUTCOMES OF ATRIAL FIBRILLATION IN CARDIAC SARCOIDOSIS. Journal of the American College of Cardiology. 2021;77:621-621.
+- Aguilera J, Brizneda MV, Hutt E, Taimeh Z, Culver D, Callahan T, Wazni O, Jaber W, Ribeiro M and Flamm S. ASSOCIATION BETWEEN VENTRICULAR TACHYCARDIA AND MORTALITY IN PATIENTS WITH CARDIAC SARCOIDOSIS. Journal of the American College of Cardiology. 2021;77:257-257.
+- Hutt E, Nissen SE and Desai MY. Unmet needs in the treatment of hypertrophic cardiomyopathy. Future Cardiology. 2021.
+- Hutt Centeno E and Salas Segura J. Rehabilitación cardíaca para el médico general. 2015.
+- Schenone AL, Hutt E, Cremer P and Jaber WA. Utility of nuclear cardiovascular imaging in the cardiac intensive care unit. Journal of Nuclear Cardiology. 2021:1-17.
+- Aguilera J, Hutt E and Jaber WA. Imaging of Cardiac Device-Related Infection. Frontiers in Cardiovascular Medicine. 2021:997.
+
